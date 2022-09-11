@@ -1,7 +1,6 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-
 ZCZC W00 5   L13 Assignment #03
 ZCZC W00 15  L14 Assignment #04
 ZCZC W00 10  L11 Assignment #01
@@ -12,7 +11,6 @@ ZCZC W00 13  L32 YouTube: watching OS related topics, etc.
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00 16  L15 Assignment #05
 ZCZC W00 2   L16 Assignment #06
-
 ZCZC W01 110 L02 ZOOM meetings related
 ZCZC W01 70  L02 ZOOM meetings related
 ZCZC W01 250 L11 Assignment #01
