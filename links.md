@@ -15,6 +15,8 @@ permalink: LINKS/
 
 # LINKS
 
+WEEK 01
+
 1. [Symmetric vs. Asymmetric Encryption – What are differences?]([https://en.wikipedia.org/wiki/1](https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences))<br>
 The link is about differences between symmetric and asymmetric encryption.
 It helps to differentiate and better understand the concept of using keys to encrypt data.
