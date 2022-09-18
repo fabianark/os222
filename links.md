@@ -17,13 +17,16 @@ permalink: LINKS/
 
 <span style="color:red">WEEK 01</span>
 
-1. [Symmetric vs. Asymmetric Encryption – What are differences?]((https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences))<br>
+1. [Symmetric vs. Asymmetric Encryption – What are differences?](https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences)<br>
 It is about differences between symmetric and asymmetric encryption in cyber security. It helps to differentiate and better understand the concept of using keys to encrypt data.
 
 <span style="color:red">WEEK 02</span>
 
-2. [Unix Permissions — The Easy Way]((https://towardsdatascience.com/unix-permissions-the-easy-way-98cc19979b3e))<br>
+2. [Unix Permissions — The Easy Way](https://towardsdatascience.com/unix-permissions-the-easy-way-98cc19979b3e)<br>
 It is about file permissions in Unix operating systems (Linux is also derived from Unix), including the explanation of the codes and examples. The explanation is quite simple and easy to understand, so that we could read the codes by ourselves and understand its meaning.
+
+3. [SHA-256 Cryptographic Hash Algorithm](https://www.movable-type.co.uk/scripts/sha256.html)<br>
+It explains the implementation of SHA-256 cryptographic hash in data security. This site could improve your knowledge on hashing and its difference compared to encryption which is a two-way function.
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
