@@ -1,4 +1,4 @@
-version:     '`r format(Sys.Date(), "%d %B, %Y")`'
+version:     "18 September 2022"
 copyright:   "2022"
 author:      "ARK"
 title:       "OS222: Operating Systems 2022-2"
