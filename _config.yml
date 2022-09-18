@@ -1,4 +1,4 @@
-version:     "0030b--13-Sep-2022"
+version:     "`r format(Sys.time(), '%d %B, %Y')`"
 copyright:   "2022"
 author:      "ARK"
 title:       "OS222: Operating Systems 2022-2"
