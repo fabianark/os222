@@ -31,7 +31,7 @@ It explains the implementation of SHA-256 cryptographic hash in data security. T
 <span style="color:red">WEEK 03</span>
 
 4. [Computer Operating Systems: OS Families for Computers](https://www.techlila.com/computer-operating-systems/)<br>
-So you have learned about OS, but you might only know that there are only 3 operating systems that exist (or existed) in this world. Here you can see a lot of other operating systems and also the history behind it.
+So you have learned about OS, but you might only know that there are only 3 operating systems that exist in this world (Windows, MacOS, and Linux). Here you can see a lot of other operating systems that exist (or existed) in this world and also the history behind it.
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
