@@ -8,7 +8,7 @@ permalink: LINKS/
 [TIPS]({{ site.baseurl }}/TIPS/) ---
 [PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/fabianark.tar.xz) ---
+[TARBALL](https://os.vlsm.org/Log/fabianark.tar.bz2.txt) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
@@ -27,6 +27,11 @@ It is about file permissions in Unix operating systems (Linux is also derived fr
 
 3. [SHA-256 Cryptographic Hash Algorithm](https://www.movable-type.co.uk/scripts/sha256.html)<br>
 It explains the implementation of SHA-256 cryptographic hash in data security. This site could improve your knowledge on hashing and its difference compared to encryption which is a two-way function.
+
+<span style="color:red">WEEK 03</span>
+
+4. [Computer Operating Systems: OS Families for Computers](https://www.techlila.com/computer-operating-systems/)<br>
+So you have learned about OS, but you might only know that there are only 3 operating systems that exist (or existed) in this world. Here you can see a lot of other operating systems and also the history behind it.
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
