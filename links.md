@@ -36,7 +36,10 @@ So you have learned about OS, but you might only know that there are only 3 oper
 5. [PIONEERS OF SEMICONDUCTOR NON-VOLATILE MEMORY (NVM): THE FIRST FOUR DECADES](https://computerhistory.org/blog/pioneers-of-semiconductor-non-volatile-memory-nvm-the-first-four-decades/)<br>
 A deep history of non-volatile memory from the oldest to the newest technology that we use right now. This might be great for those history geeks out there. Do you love history? World War II history? Meh, now try this kind of history!
 
+6. [Disk Partitioning: The Good, The Bad, And The Techy](https://protostechnologies.com/blog/disaster-recovery-news/disk-partitioning-good-bad-techy/)<br>
+Pros and cons of applying disk partition to a storage system. This could help us to decide whether we need to use disk partition or not. So please adjust the storage according to your needs. Nevertheless, it is not a necessary thing to do.
+
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: 25 September 2022.
 <hr>
 <br>

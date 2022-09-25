@@ -34,3 +34,8 @@ ZCZC W03 70  L11 Assignment #01
 ZCZC W03 50  L12 Assignment #02
 ZCZC W03 5   L13 Assignment #03
 ZCZC W03 15  L41 TXT/mylog.txt related.
+ZCZC W03 10  L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W03 25  L04 GitHub Pages related
+ZCZC W03 15  L43 TXT/myrank.txt related, including peer review.
+ZCZC W03 5   L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W03 10  L41 TXT/mylog.txt related.
