@@ -33,6 +33,9 @@ It explains the implementation of SHA-256 cryptographic hash in data security. T
 4. [Computer Operating Systems: OS Families for Computers](https://www.techlila.com/computer-operating-systems/)<br>
 So you have learned about OS, but you might only know that there are only 3 operating systems that exist in this world (Windows, MacOS, and Linux). Here you can see a lot of other operating systems that exist (or existed) in this world and also the history behind it.
 
+5. [PIONEERS OF SEMICONDUCTOR NON-VOLATILE MEMORY (NVM): THE FIRST FOUR DECADES](https://computerhistory.org/blog/pioneers-of-semiconductor-non-volatile-memory-nvm-the-first-four-decades/)<br>
+A deep history of non-volatile memory from the oldest to the newest technology that we use right now. This might be great for those history geeks out there. Do you love history? World War II history? Meh, now try this kind of history!
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
