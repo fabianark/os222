@@ -12,11 +12,16 @@
 
 <h1>Hello there!</h1>
 
-![Fasilkom UI Logo](https://cs.ui.ac.id/wp-content/uploads/2021/06/logo-fasilkom-white-2.png)
+![Fasilkom UI Logo](https://cs.ui.ac.id/wp-content/uploads/2021/06/logo-fasilkom-white-2.png)<br>
 Logo taken from: https://cs.ui.ac.id/wp-content/uploads/2021/06/logo-fasilkom-white-2.png
 
+
 My name is Fabian Akmal Arkandion
+
 This is the homepage for my GitHub page
+
+
+GitHub page design inspired by: Cicak bin Kadal
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: 1 October 2022.
