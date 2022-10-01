@@ -16,8 +16,7 @@
 Logo taken from: https://cs.ui.ac.id/wp-content/uploads/2021/06/logo-fasilkom-white-2.png
 
 
-My name is Fabian Akmal Arkandion
-
+My name is Fabian Akmal Arkandion<br>
 This is the homepage for my GitHub page
 
 
