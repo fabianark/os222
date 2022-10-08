@@ -52,3 +52,7 @@ ZCZC W05 100 L02 ZOOM meetings related.
 ZCZC W05 120 L99 Face-to-face lecture.
 ZCZC W05 100 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 10  L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W05 10  L11 Assignment #01
+ZCZC W05 80  L12 Assignment #02
+ZCZC W05 5   L13 Assignment #03
+ZCZC W05 35  L14 Assignment #04
