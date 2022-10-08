@@ -15,12 +15,12 @@ permalink: LINKS/
 
 # LINKS
 
-<h2 style="color:red">WEEK 01</h2>
+<h2 style="color:red">WEEK 01 🚩</h2>
 
 1. [Symmetric vs. Asymmetric Encryption – What are differences?](https://www.ssl2buy.com/wiki/symmetric-vs-asymmetric-encryption-what-are-differences)<br>
 It is about differences between symmetric and asymmetric encryption in cyber security. It helps to differentiate and better understand the concept of using keys to encrypt data.
 
-<h2 style="color:red">WEEK 02</h2>
+<h2 style="color:red">WEEK 02 🚩</h2>
 
 2. [Unix Permissions — The Easy Way](https://towardsdatascience.com/unix-permissions-the-easy-way-98cc19979b3e)<br>
 It is about file permissions in Unix operating systems (Linux is also derived from Unix), including the explanation of the codes and examples. The explanation is quite simple and easy to understand, so that we could read the codes by ourselves and understand its meaning.
@@ -28,7 +28,7 @@ It is about file permissions in Unix operating systems (Linux is also derived fr
 3. [SHA-256 Cryptographic Hash Algorithm](https://www.movable-type.co.uk/scripts/sha256.html)<br>
 It explains the implementation of SHA-256 cryptographic hash in data security. This site could improve your knowledge on hashing and its difference compared to encryption which is a two-way function.
 
-<h2 style="color:red">WEEK 03</h2>
+<h2 style="color:red">WEEK 03 🚩</h2>
 
 4. [Computer Operating Systems: OS Families for Computers](https://www.techlila.com/computer-operating-systems/)<br>
 So you have learned about OS, but you might only know that there are only 3 operating systems that exist in this world (Windows, MacOS, and Linux). Here you can see a lot of other operating systems that exist (or existed) in this world and also the history behind it.
@@ -39,7 +39,7 @@ A deep history of non-volatile memory from the oldest to the newest technology t
 6. [Disk Partitioning: The Good, The Bad, And The Techy](https://protostechnologies.com/blog/disaster-recovery-news/disk-partitioning-good-bad-techy/)<br>
 Pros and cons of applying disk partition to a storage system. This could help us to decide whether we need to use disk partition or not. So please adjust the storage according to your needs. Nevertheless, it is not a necessary thing to do.
 
-<h2 style="color:red">WEEK 04</h2>
+<h2 style="color:red">WEEK 04 🚩</h2>
 
 7. [Difference Between C and Java](https://www.guru99.com/difference-between-java-and-c.html)<br>
 Are you new to C programming language? If you've learned Java, then you might say that it almost looks the same (based on the syntax). The truth is that the two are very different in terms of program orientation. The purpose of this site is only to compare C to Java and not to give you the introduction to C language. For more learning materials, I suggest you to read "The C Programming Language (2nd Edition)" by Brian Kernighan and co-authored by the man who created the C language himself, Dennis Ritchie.
@@ -50,7 +50,7 @@ The solution to external fragmentation caused by contiguous allocation of memory
 9. [Why use double indirection? or Why use pointers to pointers?](https://stackoverflow.com/questions/5580761/why-use-double-indirection-or-why-use-pointers-to-pointers)<br>
 Why do we need a pointer to point a pointer that points to a variable with value in it? Is the question already confusing enough? Then try to read this to understand the purpose of it and how do you implement it in your program.
 
-<h2 style="color:red">WEEK 05</h2>
+<h2 style="color:red">WEEK 05 🚩</h2>
 
 10. [Why should I use "HashKnownHosts yes" in ssh_config?](https://serverfault.com/questions/233855/why-should-i-use-hashknownhosts-yes-in-ssh-config)<br>
 The importance of keeping your ssh known hosts in hashed text. An attacker might peep into your unhashed known host and try to access your account.
