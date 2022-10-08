@@ -50,7 +50,12 @@ The solution to external fragmentation caused by contiguous allocation of memory
 9. [Why use double indirection? or Why use pointers to pointers?](https://stackoverflow.com/questions/5580761/why-use-double-indirection-or-why-use-pointers-to-pointers)<br>
 Why do we need a pointer to point a pointer that points to a variable with value in it? Is the question already confusing enough? Then try to read this to understand the purpose of it and how do you implement it in your program.
 
+<h2 style="color:red">WEEK 05</h2>
+
+10. [Why should I use "HashKnownHosts yes" in ssh_config?](https://serverfault.com/questions/233855/why-should-i-use-hashknownhosts-yes-in-ssh-config)<br>
+The importance of keeping your ssh known hosts in hashed text. An attacker might peep into your unhashed known host and try to access your account.
+
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: 1 October 2022.
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: 8 October 2022.
 <hr>
 <br>
