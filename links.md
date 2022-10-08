@@ -58,6 +58,9 @@ The importance of keeping your ssh known hosts in hashed text. An attacker might
 11. [Belady’s Anomaly in Page Replacement Algorithms](https://www.geeksforgeeks.org/beladys-anomaly-in-page-replacement-algorithms/)
 An anomaly might occur in some page replacement algorithms. You might think that if we increase the amount of page frames, it would surely decrease the chance of a page fault. Turns out, it is not always the case.
 
+12. [Don't Panic! Everything You Need to Know About Kernel Panics](https://www.makeuseof.com/tag/dont-panic-everything-you-need-to-know-about-kernel-panics/)<br>
+In this week's OS assignment, you must have encountered a rebooting error with "kernel panic" as an error message. Kernel panic is raised to prevent any further damage to your operating system. For those of you who use Windows, BSOD is also an example of a kernel panic.
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: 8 October 2022.
 <hr>
