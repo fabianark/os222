@@ -61,7 +61,18 @@ An anomaly might occur in some page replacement algorithms. You might think that
 12. [**Don't Panic! Everything You Need to Know About Kernel Panics**](https://www.makeuseof.com/tag/dont-panic-everything-you-need-to-know-about-kernel-panics/)<br>
 In this week's OS assignment, you must have encountered a rebooting error with "kernel panic" as an error message. Kernel panic is raised to prevent any further damage to your operating system. For those of you who use Windows, BSOD is also an example of a kernel panic.
 
+<h2 style="color:red">WEEK 06 🚩</h2>
+
+13. [**fork() in C**](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Think of this as forks you see on the road, but instead of picking one lane to go to, you go to both lanes (assuming you can duplicate yourself like amoebas lol 😂). Each forked process will execute the process below it. You will also get some explanations about parent and child concept in forks.
+
+14. [**Getting a Process’ Child Processes**](https://www.baeldung.com/linux/get-process-child-processes)<br>
+Need to reference child processes of a process? Here are multiple ways to get the child processes using Linux command.
+
+15. [**Multiprogramming vs Multiprocessing vs Multitasking vs Multithreading**](https://www.javatpoint.com/multiprogramming-vs-multiprocessing-vs-multitasking-vs-multithreading)<br>
+Multi-what??? Don't even get me started with the multiverse 🙄. Straighten up your knowledge of all the multis in the realms of computer science.
+
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: 9 October 2022.
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: 7 November 2022.
 <hr>
 <br>
