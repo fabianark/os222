@@ -72,7 +72,18 @@ Need to reference child processes of a process? Here are multiple ways to get th
 15. [**Multiprogramming vs Multiprocessing vs Multitasking vs Multithreading**](https://www.javatpoint.com/multiprogramming-vs-multiprocessing-vs-multitasking-vs-multithreading)<br>
 Multi-what??? Don't even get me started with the multiverse 🙄. Straighten up your knowledge of all the multis in the realms of computer science.
 
+<h2 style="color:red">WEEK 07 🚩</h2>
+
+16. [**Semaphores in Process Synchronization**](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+It is not too far from semaphores that you might know from scouts training. Simply put, it is a tool used in process synchronization to allow other process to be executed following a signal. Semaphores help to prevent collision between processes.
+
+17. [**Deadlock, Livelock and Starvation**](https://www.baeldung.com/cs/deadlock-livelock-starvation)<br>
+All types of process waiting scenarios that could happen during multiprogramming. Generally, we don't want these scenarios to happen as it would reduce the efficiency of multiprogramming.
+
+18. [**Mutex vs Semaphore**](https://www.javatpoint.com/mutex-vs-semaphore)<br>
+Mutex, an alternative to semaphore synchronization. Instead of giving signal for processes to be executed, mutex (mutual exclusion) controls and keeps the gate to a shared resource. Once the process running in shared resource is done, mutex will release the process to give other process a space or resource to work with.
+
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: 7 November 2022.
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: 12 November 2022.
 <hr>
 <br>
