@@ -91,3 +91,10 @@ ZCZC W08 390 L13 Assignment #03
 ZCZC W08 20  L09 Assignment in General
 ZCZC W08 10  L43 TXT/myrank.txt related, including peer review.
 ZCZC W08 10  L14 Assignment #04
+ZCZC W09 95  L02 ZOOM meetings related.
+ZCZC W09 130 L00 General, etc. (LFS)
+ZCZC W09 20  L11 Assignment #01
+ZCZC W09 5   L12 Assignment #02
+ZCZC W09 180 L13 Assignment #03
+ZCZC W09 10  L43 TXT/myrank.txt related, including peer review.
+ZCZC W09 20  L14 Assignment #04

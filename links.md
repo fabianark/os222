@@ -83,7 +83,12 @@ All types of process waiting scenarios that could happen during multiprogramming
 18. [**Mutex vs Semaphore**](https://www.javatpoint.com/mutex-vs-semaphore)<br>
 Mutex, an alternative to semaphore synchronization. Instead of giving signal for processes to be executed, mutex (mutual exclusion) controls and keeps the gate to a shared resource. Once the process running in shared resource is done, mutex will release the process to give other process a space or resource to work with.
 
+<h2 style="color:red">WEEK 09 🚩</h2>
+
+19. [**How to build Linux From Scratch 11.2**](https://www.youtube.com/watch?v=7ukLbyTTwGo&list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ)<br>
+Here's the playlist of video tutorials for creating LFS if you feel that the tutorial book wasn't enough. For me, it really helps to visualize the steps.
+
 <hr>
-&copy; {{ site.copyright }} --- {{ site.author }} --- Version: 12 November 2022.
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: 23 November 2022.
 <hr>
 <br>
